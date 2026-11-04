@@ -1,0 +1,3 @@
+import {getTranslations} from 'next-intl/server';import EquipmentForm from '@/components/forms/EquipmentForm';import type {Metadata} from 'next';
+export async function generateMetadata():Promise<Metadata>{return {title:'Preciso De Equipamento | Conecta Doe'}}
+export default async function FormPage(){const t=await getTranslations('form');return <main id="main-content" className="section-pad container-shell"><div className="mx-auto mb-9 max-w-3xl"><h1 className="section-title">{t('requestTitle')}</h1><p className="mt-3 text-lg">{t('requestIntro')}</p></div><EquipmentForm mode="request"/></main>}

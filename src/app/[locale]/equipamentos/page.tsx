@@ -1,0 +1,3 @@
+import {getTranslations} from 'next-intl/server';import EquipmentCatalog from '@/components/equipment/EquipmentCatalog';import type {Metadata} from 'next';
+export async function generateMetadata():Promise<Metadata>{return {title:'Equipamentos | Conecta Doe'}}
+export default async function Equipments(){const t=await getTranslations('equipment');return <main id="main-content" className="section-pad container-shell"><div className="mb-9"><p className="mb-3 font-bold text-[#08775D]">Conecta Doe · Demo</p><h1 className="section-title">{t('title')}</h1><p className="mt-3 text-lg">{t('subtitle')}</p></div><EquipmentCatalog/></main>}

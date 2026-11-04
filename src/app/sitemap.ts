@@ -1,0 +1,2 @@
+import type {MetadataRoute} from 'next';import {equipment} from '@/data/equipment';
+export default function sitemap():MetadataRoute.Sitemap{const base='https://example.org';const routes=['','/equipamentos','/doar','/preciso-de-equipamento','/como-funciona','/sobre',...equipment.map(e=>`/equipamentos/${e.id}`)];return ['pt-BR','en','es'].flatMap(locale=>routes.map(route=>({url:`${base}/${locale}${route}`,changeFrequency:'monthly' as const,priority:route?0.6:1}))) }
