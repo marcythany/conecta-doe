@@ -8,7 +8,11 @@
     "request": "Necesito un equipo",
     "menu": "Abrir menú",
     "close": "Cerrar menú",
-    "language": "Idioma"
+    "language": "Idioma",
+    "volunteers": "Voluntariado",
+    "mainNavigation": "Navegación principal",
+    "mobileNavigation": "Navegación móvil",
+    "accessibility": "Opciones de accesibilidad"
   },
   "home": {
     "title1": "Dona tecnología.",
@@ -157,5 +161,79 @@
   "meta": {
     "title": "Conecta Doe — Dona tecnología. Conecta posibilidades.",
     "description": "Prototipo de plataforma para donar equipos de tecnología de apoyo."
+  },
+  "community": {
+    "eyebrow": "Conectar también es cuidar",
+    "heading": "Juntos podemos hacer más",
+    "intro": "Conoce formas de apoyar a tu comunidad y una meta ilustrativa para mantener la plataforma.",
+    "helpTag": "Apoyo comunitario",
+    "connectTag": "Conexiones con propósito",
+    "title": "El voluntariado acerca a las personas",
+    "description": "¿Quieres ofrecer ayuda o encontrar a alguien que pueda apoyar? Explora solicitudes y perfiles de ejemplo en tarjetas fáciles de usar.",
+    "cta": "Explorar voluntariado",
+    "demo": "Perfiles ficticios. Aún no hay conexiones reales."
+  },
+  "support": {
+    "eyebrow": "Mantenimiento de la plataforma",
+    "title": "Ayuda a mantener Conecta Doe en línea",
+    "description": "El alojamiento, la accesibilidad y las mejoras son importantes. Descubre cómo podría mostrarse una meta de recaudación futura.",
+    "raised": "Cantidad recaudada",
+    "goal": "Meta",
+    "progress": "Meta alcanzada",
+    "progressLabel": "Progreso de la meta de mantenimiento",
+    "progressDescription": "{percentage}% de la meta ilustrativa alcanzada",
+    "demo": "Simulación: cifras ficticias, sin recaudación ni pagos reales. El sitio todavía no recibe donaciones de dinero."
+  },
+  "volunteers": {
+    "eyebrow": "Red de voluntariado",
+    "title": "Personas conectadas por buenas acciones",
+    "subtitle": "Descubre oportunidades para ayudar o personas dispuestas a apoyar a tu comunidad. Explora tarjetas y muestra tu interés.",
+    "demo": "Demostración: nombres, perfiles y solicitudes son ficticios. No se crea ningún contacto real.",
+    "explore": "Explorar perfiles comunitarios",
+    "chooseMode": "Elige cómo participar",
+    "offer": "Quiero ayudar",
+    "request": "Necesito ayuda",
+    "offerHint": "Verás solicitudes ficticias de personas que necesitan ayuda.",
+    "requestHint": "Verás perfiles ficticios de personas voluntarias.",
+    "filter": "Tipo de ayuda",
+    "allAreas": "Todas las áreas",
+    "cardCount": "{count, plural, =0 {Ningún perfil} one {# perfil} other {# perfiles}}",
+    "areas": {
+      "mobility": "Acompañamiento",
+      "digital": "Asistencia digital",
+      "errands": "Apoyo en tareas",
+      "community": "Organización comunitaria"
+    },
+    "position": "Perfil {current} de {total}",
+    "cardLabel": "Tarjeta de {name}. Usa la flecha izquierda para pasar y la derecha para conectar.",
+    "needsHelp": "Solicitud de ayuda",
+    "volunteerBadge": "Persona voluntaria",
+    "requestHeading": "¿Cómo puedo ayudar?",
+    "volunteerHeading": "¿Cómo puede ayudar?",
+    "skip": "Pasar",
+    "connect": "Conectar",
+    "gestureHint": "Desliza a la izquierda para pasar o a la derecha para mostrar interés. También hay botones y atajos de teclado.",
+    "connectionTitle": "¡Interés registrado!",
+    "connectionMessage": "Mostraste interés en conectar con {name}.",
+    "connectionDisclaimer": "Esto es solo una simulación: no se envía ningún mensaje.",
+    "dismiss": "Seguir explorando",
+    "finishedTitle": "Has visto todas las tarjetas",
+    "finishedDescription": "En esta demostración, mostraste interés en {connections, plural, =0 {ningún perfil} one {# perfil} other {# perfiles}}.",
+    "noProfilesTitle": "No hay perfiles en esta categoría",
+    "noProfilesDescription": "Prueba otro tipo de ayuda o vuelve a empezar.",
+    "restart": "Ver de nuevo",
+    "howToUse": "En el móvil, desliza las tarjetas. En el ordenador, usa los botones o las flechas izquierda y derecha con la tarjeta enfocada.",
+    "safetyTitle": "Conexiones respetuosas y seguras",
+    "safetyDescription": "Antes de contar con usuarios reales, esta función necesitará consentimiento de contacto, protección de datos, moderación y confirmación mutua. No introduzcas documentos, direcciones ni información médica en este prototipo.",
+    "profiles": {
+      "ana": "Busco compañía para asistir a una actividad comunitaria y conocer opciones de transporte.",
+      "joao": "Me gustaría recibir orientación básica para acceder a servicios y completar formularios en internet.",
+      "beatriz": "Necesito ayuda para coordinar la recogida de un equipo de movilidad en un punto de entrega.",
+      "pedro": "Busco apoyo para clasificar y catalogar equipos donados para una actividad comunitaria.",
+      "luana": "Puedo acompañar a personas en actividades comunitarias y ayudar a organizar desplazamientos.",
+      "rafael": "Tengo disponibilidad para enseñar habilidades digitales básicas y facilitar el uso de plataformas.",
+      "camila": "Puedo ayudar con pequeñas tareas y recoger artículos en puntos públicos acordados.",
+      "diego": "Quiero colaborar con iniciativas vecinales y la organización de equipos donados."
+    }
   }
 }

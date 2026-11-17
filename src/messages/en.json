@@ -8,7 +8,11 @@
     "request": "I need equipment",
     "menu": "Open menu",
     "close": "Close menu",
-    "language": "Language"
+    "language": "Language",
+    "volunteers": "Volunteers",
+    "mainNavigation": "Main navigation",
+    "mobileNavigation": "Mobile navigation",
+    "accessibility": "Accessibility options"
   },
   "home": {
     "title1": "Donate technology.",
@@ -157,5 +161,79 @@
   "meta": {
     "title": "Conecta Doe — Donate technology. Connect possibilities.",
     "description": "Prototype platform for donating assistive technology equipment."
+  },
+  "community": {
+    "eyebrow": "Connection is a form of care",
+    "heading": "We can do more together",
+    "intro": "Discover ways to support your community and explore an illustrative goal for maintaining the platform.",
+    "helpTag": "Community support",
+    "connectTag": "Meaningful connections",
+    "title": "Volunteering brings people together",
+    "description": "Want to offer help or find someone available to help? Browse example requests and profiles using simple swipe-style cards.",
+    "cta": "Explore volunteering",
+    "demo": "Fictional profiles. No real connections are available yet."
+  },
+  "support": {
+    "eyebrow": "Platform upkeep",
+    "title": "Help keep Conecta Doe online",
+    "description": "Hosting, accessibility and new features all matter. See an example of how a fundraising goal could be tracked in the future.",
+    "raised": "Amount raised",
+    "goal": "Goal",
+    "progress": "Goal reached",
+    "progressLabel": "Maintenance fundraising progress",
+    "progressDescription": "{percentage}% of the illustrative goal reached",
+    "demo": "Demonstration only: these figures are fictional. No money has been raised or charged through the website."
+  },
+  "volunteers": {
+    "eyebrow": "Volunteer network",
+    "title": "Connecting people through acts of kindness",
+    "subtitle": "Find opportunities to help or people willing to support your community. Browse cards and show your interest.",
+    "demo": "Demo: names, profiles and requests are fictional. No real contact or match is made.",
+    "explore": "Browse community profiles",
+    "chooseMode": "Choose how to participate",
+    "offer": "I want to help",
+    "request": "I need help",
+    "offerHint": "You will see fictional requests from people seeking help.",
+    "requestHint": "You will see fictional volunteer profiles.",
+    "filter": "Type of help",
+    "allAreas": "All areas",
+    "cardCount": "{count, plural, =0 {No profiles} one {# profile} other {# profiles}}",
+    "areas": {
+      "mobility": "Accompaniment",
+      "digital": "Digital assistance",
+      "errands": "Everyday tasks",
+      "community": "Community organizing"
+    },
+    "position": "Profile {current} of {total}",
+    "cardLabel": "Card for {name}. Use the left arrow to skip and the right arrow to connect.",
+    "needsHelp": "Help request",
+    "volunteerBadge": "Volunteer",
+    "requestHeading": "How can I help?",
+    "volunteerHeading": "How they can help",
+    "skip": "Skip",
+    "connect": "Connect",
+    "gestureHint": "Swipe left to skip or right to show interest. Buttons and keyboard shortcuts are also available.",
+    "connectionTitle": "Interest noted!",
+    "connectionMessage": "You showed interest in connecting with {name}.",
+    "connectionDisclaimer": "This is only a demo: no message was sent.",
+    "dismiss": "Keep exploring",
+    "finishedTitle": "You have seen all cards",
+    "finishedDescription": "In this demo, you showed interest in {connections, plural, =0 {no profiles} one {# profile} other {# profiles}}.",
+    "noProfilesTitle": "No profiles in this category",
+    "noProfilesDescription": "Try another type of help or start over.",
+    "restart": "Start again",
+    "howToUse": "On mobile, swipe the cards. On desktop, use the buttons or left and right arrow keys when the card has focus.",
+    "safetyTitle": "Respectful and safe connections",
+    "safetyDescription": "Before real users can participate, this feature will need contact consent, data protection, moderation and mutual confirmation. Do not enter documents, addresses or medical details in this prototype.",
+    "profiles": {
+      "ana": "I am looking for company to attend a community activity and learn about transport options.",
+      "joao": "I would appreciate basic guidance on accessing online services and completing forms.",
+      "beatriz": "I need help coordinating pickup of a mobility aid from a collection point.",
+      "pedro": "I am looking for help sorting and cataloging donated equipment for a community event.",
+      "luana": "I can accompany people to community activities and help plan accessible trips.",
+      "rafael": "I am available to teach basic digital skills and help people use online tools.",
+      "camila": "I can help organize small errands and collect items at agreed public locations.",
+      "diego": "I want to help with neighborhood initiatives and organizing donated items."
+    }
   }
 }
