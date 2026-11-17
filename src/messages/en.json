@@ -171,7 +171,9 @@
     "title": "Volunteering brings people together",
     "description": "Want to offer help or find someone available to help? Browse example requests and profiles using simple swipe-style cards.",
     "cta": "Explore volunteering",
-    "demo": "Fictional profiles. No real connections are available yet."
+    "demo": "Fictional profiles. No real connections are available yet.",
+    "registerVolunteer": "Register as a volunteer",
+    "registerPatient": "Ask for support"
   },
   "support": {
     "eyebrow": "Platform upkeep",
@@ -235,5 +237,54 @@
       "camila": "I can help organize small errands and collect items at agreed public locations.",
       "diego": "I want to help with neighborhood initiatives and organizing donated items."
     }
+  },
+  "registration": {
+    "eyebrow": "Community participation",
+    "chooseTitle": "How would you like to take part?",
+    "chooseDescription": "Fill out a demo registration to preview your profile or request. No information will be saved.",
+    "volunteerTitle": "Volunteer registration",
+    "volunteerDescription": "Want to contribute your time? Share which activities you can help with, without providing personal contact details.",
+    "volunteerCTA": "Register as a volunteer",
+    "patientTitle": "Register a request for help",
+    "patientDescription": "For patients and anyone who needs day-to-day assistance. Describe only the support you need, without diagnoses or health information.",
+    "patientCTA": "Register a request for support",
+    "backToMatches": "Back to connections",
+    "safetyNotice": "This is a prototype only. Use a nickname and general information. Do not enter an ID number, phone number, home address, diagnosis, medical history or other sensitive details.",
+    "displayName": "Public name or nickname",
+    "namePlaceholder": "How would you like to appear?",
+    "city": "City",
+    "cityPlaceholder": "E.g., Novo Hamburgo",
+    "state": "State (BR)",
+    "area": "Type of support",
+    "availability": "Availability",
+    "choose": "Choose an option",
+    "availabilityOptions": {
+      "weekdays": "Weekdays",
+      "evenings": "Evenings",
+      "weekends": "Weekends",
+      "flexible": "Flexible schedule"
+    },
+    "offerLabel": "How can you help?",
+    "needLabel": "What help do you need?",
+    "offerPlaceholder": "E.g., I can teach people how to use apps and online services.",
+    "needPlaceholder": "E.g., I would like guidance on using public-service apps.",
+    "offerHint": "Describe the support you can offer (at least 20 characters).",
+    "needHint": "Describe only the support you need (at least 20 characters). Do not include medical information.",
+    "acknowledgement": "I understand this registration is a demo and nothing will be sent or saved.",
+    "required": "* Required fields.",
+    "previewButton": "Preview demo registration",
+    "errorTitle": "Please review the highlighted fields",
+    "errorDescription": "Complete the required information before continuing.",
+    "errorName": "Enter at least 2 characters for your name or nickname.",
+    "errorCity": "Enter a valid city.",
+    "errorRequired": "Choose an option.",
+    "errorSummary": "Describe the support in at least 20 characters.",
+    "errorAgree": "Confirm that you understand this is a demo registration.",
+    "successTitle": "Your profile preview is ready!",
+    "successDescription": "This is a preview of the profile you filled out. It exists only on this screen and has not been published to anyone else.",
+    "notSaved": "No real registration was created: your details were not sent or stored.",
+    "preview": "Profile preview",
+    "edit": "Edit details",
+    "newRegistration": "Start a new registration"
   }
 }

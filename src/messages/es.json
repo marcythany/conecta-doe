@@ -171,7 +171,9 @@
     "title": "El voluntariado acerca a las personas",
     "description": "¿Quieres ofrecer ayuda o encontrar a alguien que pueda apoyar? Explora solicitudes y perfiles de ejemplo en tarjetas fáciles de usar.",
     "cta": "Explorar voluntariado",
-    "demo": "Perfiles ficticios. Aún no hay conexiones reales."
+    "demo": "Perfiles ficticios. Aún no hay conexiones reales.",
+    "registerVolunteer": "Registrarme como voluntario/a",
+    "registerPatient": "Pedir ayuda"
   },
   "support": {
     "eyebrow": "Mantenimiento de la plataforma",
@@ -235,5 +237,54 @@
       "camila": "Puedo ayudar con pequeñas tareas y recoger artículos en puntos públicos acordados.",
       "diego": "Quiero colaborar con iniciativas vecinales y la organización de equipos donados."
     }
+  },
+  "registration": {
+    "eyebrow": "Participación comunitaria",
+    "chooseTitle": "¿Cómo quieres participar?",
+    "chooseDescription": "Completa un registro de demostración para ver cómo quedaría tu perfil o solicitud. No se guardará ningún dato.",
+    "volunteerTitle": "Registro de voluntariado",
+    "volunteerDescription": "¿Quieres ofrecer tu tiempo? Indica en qué actividades puedes ayudar a la comunidad sin facilitar datos personales de contacto.",
+    "volunteerCTA": "Quiero registrarme como voluntario/a",
+    "patientTitle": "Registro de personas que necesitan ayuda",
+    "patientDescription": "Para pacientes y otras personas que necesitan apoyo en su día a día. Describe solo la ayuda necesaria, sin diagnósticos ni datos de salud.",
+    "patientCTA": "Quiero registrar una solicitud de ayuda",
+    "backToMatches": "Volver a las conexiones",
+    "safetyNotice": "Este es solo un prototipo. Usa un apodo y datos generales. No indiques documentos, teléfono, domicilio, diagnósticos, antecedentes médicos ni otros datos sensibles.",
+    "displayName": "Nombre público o apodo",
+    "namePlaceholder": "¿Cómo quieres aparecer?",
+    "city": "Ciudad",
+    "cityPlaceholder": "Ej.: Novo Hamburgo",
+    "state": "Estado (Brasil)",
+    "area": "Tipo de ayuda",
+    "availability": "Disponibilidad",
+    "choose": "Selecciona una opción",
+    "availabilityOptions": {
+      "weekdays": "Días laborables",
+      "evenings": "Por la noche",
+      "weekends": "Fines de semana",
+      "flexible": "Horario flexible"
+    },
+    "offerLabel": "¿Cómo puedes ayudar?",
+    "needLabel": "¿Qué ayuda necesitas?",
+    "offerPlaceholder": "Ej.: Puedo enseñar a usar aplicaciones y servicios en línea.",
+    "needPlaceholder": "Ej.: Necesito orientación para utilizar aplicaciones de servicios públicos.",
+    "offerHint": "Describe la ayuda que puedes ofrecer (mínimo 20 caracteres).",
+    "needHint": "Describe solo el apoyo que necesitas (mínimo 20 caracteres). No incluyas datos médicos.",
+    "acknowledgement": "Entiendo que este registro es una demostración y que no se enviará ni guardará nada.",
+    "required": "* Campos obligatorios.",
+    "previewButton": "Ver vista previa del registro",
+    "errorTitle": "Revisa los campos señalados",
+    "errorDescription": "Completa la información obligatoria antes de continuar.",
+    "errorName": "Indica al menos 2 caracteres para el nombre o apodo.",
+    "errorCity": "Indica una ciudad válida.",
+    "errorRequired": "Selecciona una opción.",
+    "errorSummary": "Describe la ayuda con al menos 20 caracteres.",
+    "errorAgree": "Confirma que entiendes que este registro es demostrativo.",
+    "successTitle": "¡La vista previa está lista!",
+    "successDescription": "Esta es una vista previa del perfil que completaste. Solo existe en esta pantalla y no se ha publicado para otras personas.",
+    "notSaved": "No se creó ningún registro real: tus datos no fueron enviados ni almacenados.",
+    "preview": "Vista previa del perfil",
+    "edit": "Editar información",
+    "newRegistration": "Nuevo registro"
   }
 }

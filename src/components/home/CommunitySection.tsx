@@ -40,6 +40,14 @@ export default async function CommunitySection() {
               <Link href="/voluntarios" className="primary-btn mt-7 self-start">
                 {t('cta')} <ArrowRight size={18} aria-hidden="true" />
               </Link>
+              <div className="mt-4 flex flex-wrap gap-2">
+                <Link href="/voluntarios/cadastro-voluntario" className="rounded-full border border-[#9FC9BB] px-4 py-2 text-sm font-bold text-[#075B50] transition hover:bg-[#E4F4ED]">
+                  {t('registerVolunteer')}
+                </Link>
+                <Link href="/voluntarios/cadastro-paciente" className="rounded-full border border-[#9FC9BB] px-4 py-2 text-sm font-bold text-[#075B50] transition hover:bg-[#E4F4ED]">
+                  {t('registerPatient')}
+                </Link>
+              </div>
               <p className="mt-5 text-xs text-[#526674]">{t('demo')}</p>
             </div>
           </article>

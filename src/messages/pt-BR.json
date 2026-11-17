@@ -171,7 +171,9 @@
     "title": "Voluntariado que aproxima pessoas",
     "description": "Quer oferecer ajuda ou encontrar alguém disponível para apoiar? Explore pedidos e perfis demonstrativos em um formato simples de cartões.",
     "cta": "Explorar voluntariado",
-    "demo": "Perfis fictícios. Ainda não existem conexões reais."
+    "demo": "Perfis fictícios. Ainda não existem conexões reais.",
+    "registerVolunteer": "Cadastrar-me como voluntário",
+    "registerPatient": "Pedir ajuda"
   },
   "support": {
     "eyebrow": "Manutenção da plataforma",
@@ -235,5 +237,54 @@
       "camila": "Posso apoiar a organização de pequenos serviços e coleta de itens em pontos combinados.",
       "diego": "Quero colaborar com iniciativas de bairro e mutirões de organização de doações."
     }
+  },
+  "registration": {
+    "eyebrow": "Participação na comunidade",
+    "chooseTitle": "Como você quer participar?",
+    "chooseDescription": "Preencha um cadastro demonstrativo para visualizar seu perfil ou pedido. Os dados não serão salvos.",
+    "volunteerTitle": "Cadastro de voluntários",
+    "volunteerDescription": "Quer oferecer seu tempo? Informe em quais atividades pode apoiar a comunidade, sem fornecer dados pessoais de contato.",
+    "volunteerCTA": "Quero me cadastrar como voluntário",
+    "patientTitle": "Cadastro de quem precisa de ajuda",
+    "patientDescription": "Para pacientes e outras pessoas que precisam de apoio no dia a dia. Descreva apenas o auxílio desejado, sem informar diagnósticos ou dados de saúde.",
+    "patientCTA": "Quero cadastrar um pedido de ajuda",
+    "backToMatches": "Voltar às conexões",
+    "safetyNotice": "Este é apenas um protótipo. Use um apelido e informações gerais. Não informe CPF, telefone, endereço, diagnóstico, histórico médico ou outros dados sensíveis.",
+    "displayName": "Nome público ou apelido",
+    "namePlaceholder": "Como gostaria de aparecer?",
+    "city": "Cidade",
+    "cityPlaceholder": "Ex.: Novo Hamburgo",
+    "state": "Estado (UF)",
+    "area": "Tipo de ajuda",
+    "availability": "Disponibilidade",
+    "choose": "Selecione uma opção",
+    "availabilityOptions": {
+      "weekdays": "Dias úteis",
+      "evenings": "À noite",
+      "weekends": "Fins de semana",
+      "flexible": "Horários flexíveis"
+    },
+    "offerLabel": "Como você pode ajudar?",
+    "needLabel": "De que ajuda você precisa?",
+    "offerPlaceholder": "Ex.: Posso ensinar pessoas a usar aplicativos e acessar serviços online.",
+    "needPlaceholder": "Ex.: Preciso de orientação para usar aplicativos de serviços públicos.",
+    "offerHint": "Descreva a ajuda oferecida (mínimo de 20 caracteres).",
+    "needHint": "Descreva somente o apoio necessário (mínimo de 20 caracteres). Não inclua informações médicas.",
+    "acknowledgement": "Entendo que este cadastro é uma demonstração e que nada será enviado ou salvo.",
+    "required": "* Campos obrigatórios.",
+    "previewButton": "Visualizar cadastro demonstrativo",
+    "errorTitle": "Revise os campos indicados",
+    "errorDescription": "Preencha as informações obrigatórias antes de continuar.",
+    "errorName": "Informe ao menos 2 caracteres para o nome ou apelido.",
+    "errorCity": "Informe uma cidade válida.",
+    "errorRequired": "Selecione uma opção.",
+    "errorSummary": "Descreva a ajuda com pelo menos 20 caracteres.",
+    "errorAgree": "Confirme que compreendeu que este cadastro é demonstrativo.",
+    "successTitle": "Prévia do cadastro pronta!",
+    "successDescription": "Esta é a visualização do perfil que você preencheu. Ela existe somente nesta tela e não está publicada para outras pessoas.",
+    "notSaved": "Nenhum cadastro real foi criado: seus dados não foram enviados nem armazenados.",
+    "preview": "Prévia do perfil",
+    "edit": "Editar informações",
+    "newRegistration": "Novo cadastro"
   }
 }
